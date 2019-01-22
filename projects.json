@@ -1,0 +1,13 @@
+[
+	{
+      "name": "Netflix Movie Data Using BST",
+      "shortName": "",
+      "previewLabel" : "Movie Data BST",  
+      "previewImage" : "img/projects/search_movie_bst/search_movie_bst_preview.jpg",	
+      "carouselImages" : ["img/projects/search_movie_bst/search_movie_bst_1.jpg", "img/projects/search_movie_bst/search_movie_bst_2.jpg"],
+      "description" : "This program takes input as Netflix movie data, store the data in a binary search tree (using the movie id as the key), and then search for a movie id entered by the user. As the program visits nodes during the search, the movie id and name stored in each node is output. The program then outputs the movie id and name if found in the tree, otherwise a “not found” message is output.",
+      "details" : ["C11", "CSV", "Binary Search Tree"],
+      "git_url" : "https://github.com/alexviznytsya/search-movie-bst", 
+      "active" : 1
+	}
+]

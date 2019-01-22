@@ -1,2 +1,3 @@
 # alexviznytsya.github.io
-Portfolio
+
+This website id for quick visual review of all my projects.
