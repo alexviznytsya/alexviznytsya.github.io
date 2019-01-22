@@ -1,4 +1,17 @@
 [
+
+      {
+      "name": "Autocomplete Movie Search Using BST",
+      "shortName": "",
+      "previewLabel" : "Autocomplete BST",  
+      "previewImage" : "img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_preview.jpg",      
+      "carouselImages" : ["img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_1.jpg", "img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_1.jpg", "img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_3.jpg"],
+      "description" : "This application implements “auto-complete”. This is a feature we use every day, where we enter a partially complete piece of text and the system suggests various ways to complete. User enters text file name, and program automatically builds binary tree with movie rating as a key. Search is very fast and takes only O(logN) time to find or suggest matching movies.",
+      "details" : ["C11", "Binary Search Tree"],
+      "git_url" : "https://github.com/alexviznytsya/autocomplete-movie-data-bst", 
+      "active" : 1
+      },
+
 	{
       "name": "Netflix Movie Data Using BST",
       "shortName": "",
@@ -8,6 +21,6 @@
       "description" : "This program takes input as Netflix movie data, store the data in a binary search tree (using the movie id as the key), and then search for a movie id entered by the user. As the program visits nodes during the search, the movie id and name stored in each node is output. The program then outputs the movie id and name if found in the tree, otherwise a “not found” message is output.",
       "details" : ["C11", "CSV", "Binary Search Tree"],
       "git_url" : "https://github.com/alexviznytsya/search-movie-bst", 
-      "active" : 1
+      "active" : 0
 	}
 ]

@@ -3,6 +3,7 @@ var project_data;
 function loadProject(project) {
     $("#projectName").html(project.name).append($("<small>").text(" " + project.shortName));
     $(".carousel-indicators").text("");
+    $("#carousel_item").text("");
     $.each(project.carouselImages, function(k, v) {
         let indicator = $("<li>");
         let slideItem = $("<div>").addClass("carousel-item");
