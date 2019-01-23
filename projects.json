@@ -1,5 +1,17 @@
 [
       {
+      "name": "Divvy Trip Analysis Using Graphs",
+      "shortName": "",
+      "previewLabel" : "Divvy Graph Analysys",  
+      "previewImage" : "img/projects/divvy_graph_analysis/divvy_graph_analysis_preview.jpg",      
+      "carouselImages" : ["img/projects/divvy_graph_analysis/divvy_graph_analysis_1.jpg", "img/projects/divvy_graph_analysis/divvy_graph_analysis_2.jpg", "img/projects/divvy_graph_analysis/divvy_graph_analysis_3.jpg"],
+      "description" : "This project is based on Divvy AVL project. Program uses a graph to analyze trips between stations. User inputs Divvy station and trip data, program builds a graph of the # of trips between stations, and then interact with the user to support the following 5 commands:<br><ul><li>Info about a station.</li><li>Number of trips between 2 stations.</li></li>Breadth-First Search (BFS) from a station.</li><li>Debug.</li><li>Exit.</li></ul>",
+      "details" : ["C++11", "CSV", "Graphs"],
+      "git_url" : "https://github.com/alexviznytsya/divvy-graph-analysis", 
+      "active" : 1
+      },
+
+      {
       "name": "Divvy Trip Analysis Using AVL Tree",
       "shortName": "",
       "previewLabel" : "Divvy AVL Analysys",  
@@ -8,7 +20,7 @@
       "description" : "Divvy is a well-known Chicago. This program takes Divvy stations and trips data as input, and then interact with the user to support the following six commands: <br>1. Statistics about the AVL trees <br>2. Station info <br>3. Trip info <br>4. Bike info <br>5. Find stations nearby <br>6. Route analysis.",
       "details" : ["C11", "CSV", "AVL Tree"],
       "git_url" : "https://github.com/alexviznytsya/divvy-avl-analysis", 
-      "active" : 1
+      "active" : 0
       },
 
       {
