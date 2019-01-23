@@ -12,6 +12,10 @@ body {
   font-size: 1.3em; 
   text-decoration: none;
 }
+.preview a img {
+  border-radius: 5%;
+}
+
 
 @media (min-width: 992px) {
   body {

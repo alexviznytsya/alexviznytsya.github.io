@@ -1,15 +1,26 @@
 [
+      {
+      "name": "Divvy Trip Analysis Using AVL Tree",
+      "shortName": "",
+      "previewLabel" : "Divvy AVL Analysys",  
+      "previewImage" : "img/projects/divvy_avl_analysis/divvy_avl_analysis_preview.jpg",      
+      "carouselImages" : ["img/projects/divvy_avl_analysis/divvy_avl_analysis_1.jpg", "img/projects/divvy_avl_analysis/divvy_avl_analysis_2.jpg", "img/projects/divvy_avl_analysis/divvy_avl_analysis_3.jpg"],
+      "description" : "Divvy is a well-known Chicago. This program takes Divvy stations and trips data as input, and then interact with the user to support the following six commands: <br>1. Statistics about the AVL trees <br>2. Station info <br>3. Trip info <br>4. Bike info <br>5. Find stations nearby <br>6. Route analysis.",
+      "details" : ["C11", "CSV", "AVL Tree"],
+      "git_url" : "https://github.com/alexviznytsya/divvy-avl-analysis", 
+      "active" : 1
+      },
 
       {
       "name": "Autocomplete Movie Search Using BST",
       "shortName": "",
       "previewLabel" : "Autocomplete BST",  
       "previewImage" : "img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_preview.jpg",      
-      "carouselImages" : ["img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_1.jpg", "img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_1.jpg", "img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_3.jpg"],
+      "carouselImages" : ["img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_1.jpg", "img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_2.jpg", "img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_3.jpg"],
       "description" : "This application implements “auto-complete”. This is a feature we use every day, where we enter a partially complete piece of text and the system suggests various ways to complete. User enters text file name, and program automatically builds binary tree with movie rating as a key. Search is very fast and takes only O(logN) time to find or suggest matching movies.",
       "details" : ["C11", "Binary Search Tree"],
       "git_url" : "https://github.com/alexviznytsya/autocomplete-movie-data-bst", 
-      "active" : 1
+      "active" : 0
       },
 
 	{
