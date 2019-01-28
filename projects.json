@@ -6,7 +6,7 @@
       "previewImage" : "img/projects/divvy_graph_analysis/divvy_graph_analysis_preview.jpg",      
       "carouselImages" : ["img/projects/divvy_graph_analysis/divvy_graph_analysis_1.jpg", "img/projects/divvy_graph_analysis/divvy_graph_analysis_2.jpg", "img/projects/divvy_graph_analysis/divvy_graph_analysis_3.jpg"],
       "description" : "This project is based on Divvy AVL project. Program uses a graph to analyze trips between stations. User inputs Divvy station and trip data, program builds a graph of the # of trips between stations, and then interact with the user to support the following 5 commands:<br><ul><li>Info about a station.</li><li>Number of trips between 2 stations.</li></li>Breadth-First Search (BFS) from a station.</li><li>Debug.</li><li>Exit.</li></ul>",
-      "details" : ["C++11", "CSV", "Graphs"],
+      "details" : ["C++11", "CSV", "Graphs", "macOS"],
       "git_url" : "https://github.com/alexviznytsya/divvy-graph-analysis", 
       "active" : 1
       },
@@ -18,7 +18,7 @@
       "previewImage" : "img/projects/divvy_avl_analysis/divvy_avl_analysis_preview.jpg",      
       "carouselImages" : ["img/projects/divvy_avl_analysis/divvy_avl_analysis_1.jpg", "img/projects/divvy_avl_analysis/divvy_avl_analysis_2.jpg", "img/projects/divvy_avl_analysis/divvy_avl_analysis_3.jpg"],
       "description" : "Divvy is a well-known Chicago. This program takes Divvy stations and trips data as input, and then interact with the user to support the following six commands: <br>1. Statistics about the AVL trees <br>2. Station info <br>3. Trip info <br>4. Bike info <br>5. Find stations nearby <br>6. Route analysis.",
-      "details" : ["C11", "CSV", "AVL Tree"],
+      "details" : ["C11", "CSV", "AVL Tree", "macOS"],
       "git_url" : "https://github.com/alexviznytsya/divvy-avl-analysis", 
       "active" : 0
       },
@@ -30,7 +30,7 @@
       "previewImage" : "img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_preview.jpg",      
       "carouselImages" : ["img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_1.jpg", "img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_2.jpg", "img/projects/autocomplete_movie_data_bst/autocomplete_movie_data_bst_3.jpg"],
       "description" : "This application implements “auto-complete”. This is a feature we use every day, where we enter a partially complete piece of text and the system suggests various ways to complete. User enters text file name, and program automatically builds binary tree with movie rating as a key. Search is very fast and takes only O(logN) time to find or suggest matching movies.",
-      "details" : ["C11", "Binary Search Tree"],
+      "details" : ["C11", "Binary Search Tree", "macOS"],
       "git_url" : "https://github.com/alexviznytsya/autocomplete-movie-data-bst", 
       "active" : 0
       },
@@ -42,7 +42,7 @@
       "previewImage" : "img/projects/search_movie_bst/search_movie_bst_preview.jpg",	
       "carouselImages" : ["img/projects/search_movie_bst/search_movie_bst_1.jpg", "img/projects/search_movie_bst/search_movie_bst_2.jpg"],
       "description" : "This program takes input as Netflix movie data, store the data in a binary search tree (using the movie id as the key), and then search for a movie id entered by the user. As the program visits nodes during the search, the movie id and name stored in each node is output. The program then outputs the movie id and name if found in the tree, otherwise a “not found” message is output.",
-      "details" : ["C11", "CSV", "Binary Search Tree"],
+      "details" : ["C11", "CSV", "Binary Search Tree", "macOS"],
       "git_url" : "https://github.com/alexviznytsya/search-movie-bst", 
       "active" : 0
 	}
