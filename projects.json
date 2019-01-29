@@ -1,4 +1,15 @@
-[     
+[     {
+      "name": "CTA Bus Tracker",
+      "shortName": "",
+      "previewLabel" : "CTA Bus Tracker",  
+      "previewImage" : "img/projects/cta_bus_tracker/cta_bus_tracker_preview.jpg",      
+      "carouselImages" : ["img/projects/cta_bus_tracker/cta_bus_tracker_1.jpg", "img/projects/cta_bus_tracker/cta_bus_tracker_2.jpg", "img/projects/cta_bus_tracker/cta_bus_tracker_3.jpg", "img/projects/cta_bus_tracker/cta_bus_tracker_4.jpg", "img/projects/cta_bus_tracker/cta_bus_tracker_5.jpg", "img/projects/cta_bus_tracker/cta_bus_tracker_6.jpg"],
+      "description" : "This application provides live data of the CTA buses locations based on selected bus stop and bus number. Moreover, user can save his/her favorite bus stops for quick track, change radius of bus stop search based on his/her location, and change frequency of data update on Google Maps. This is PWA application and can be installed on users device and work offline (live data is not available without internet connection, search by bus number and street cossing only).",
+      "details" : ["HTML5", "CSS3","Javascript", "Material Web Components", "JQuery", "Dexie.js", "Google Map API", "CTA Bus API", "Chicago Data Portal API", "Installable PWA"],
+      "git_url" : "https://github.com/alexviznytsya/cta-bus-tracker", 
+      "active" : 1
+      },
+
       {
       "name": "Favorite Chicago Libraries",
       "shortName": "",
@@ -8,7 +19,7 @@
       "description" : "This application show the list of all Chicago Public Libraries. User can select any oh those, and they will be saved to IndexedDB. Also, user can find location of his/her favorites libraries and his/her location.",
       "details" : ["HTML5", "CSS3","Javascript", "Material Web Components", "JQuery", "Dexie.js", "Google Map API"],
       "git_url" : "https://github.com/alexviznytsya/chicago-libraries", 
-      "active" : 1
+      "active" : 0
       },
 
       {
