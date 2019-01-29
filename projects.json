@@ -35,6 +35,18 @@
       },
 
       {
+      "name": "iClicker Analysis",
+      "shortName": "",
+      "previewLabel" : "iClicker Analysis",  
+      "previewImage" : "img/projects/iclicker_analysis/iclicker_analysis_preview.jpg",      
+      "carouselImages" : ["img/projects/iclicker_analysis/iclicker_analysis_1.jpg", "img/projects/iclicker_analysis/iclicker_analysis_2.jpg", "img/projects/iclicker_analysis/iclicker_analysis_3.jpg"],
+      "description" : "This application uses as input iClicker data for miltiple class sessions from 'files.txt', and then analyze this data to see how many questions were given, how many students answered, how many students answered correctly, and so on. The input files are text file in XML format. Then, application waits for user input. It analyze entered iClicker ID, and shows all available statistics for that specific iClicker ID.",
+      "details" : ["C++11", "XML", "Parsing", "macOS"],
+      "git_url" : "https://github.com/alexviznytsya/iclicker-analysis", 
+      "active" : 0
+      },
+
+      {
       "name": "Divvy Trip Analysis Using Graphs",
       "shortName": "",
       "previewLabel" : "Divvy Graph Analysys",  
