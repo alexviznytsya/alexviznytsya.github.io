@@ -1,5 +1,17 @@
 [     
       {
+      "name": "Favorite Chicago Libraries",
+      "shortName": "",
+      "previewLabel" : "Chicago Libraries",  
+      "previewImage" : "img/projects/chicago_libraries/chicago_libraries_preview.jpg",      
+      "carouselImages" : ["img/projects/chicago_libraries/chicago_libraries_1.jpg", "img/projects/chicago_libraries/chicago_libraries_2.jpg", "img/projects/chicago_libraries/chicago_libraries_3.jpg", "img/projects/chicago_libraries/chicago_libraries_4.jpg"],
+      "description" : "This application show the list of all Chicago Public Libraries. User can select any oh those, and they will be saved to IndexedDB. Also, user can find location of his/her favorites libraries and his/her location.",
+      "details" : ["HTML5", "CSS3","Javascript", "Material Web Components", "JQuery", "Dexie.js", "Google Map API"],
+      "git_url" : "https://github.com/alexviznytsya/chicago-libraries", 
+      "active" : 1
+      },
+
+      {
       "name": "Aliens VS Pizza",
       "shortName": "",
       "previewLabel" : "Aliens VS Pizza",  
@@ -8,7 +20,7 @@
       "description" : "This is Javascript scrolling game using canvas element to create animation. Small alien has to collect as mush as possible pizzas and omit dangerous meteorites. With every 3 pizzas game's difficulty become harder and game speed increases.",
       "details" : ["HTML5", "CSS3", "Javascript", "JQuery"],
       "git_url" : "https://github.com/alexviznytsya/aliens-vs-pizza", 
-      "active" : 1
+      "active" : 0
       },
 
       {
