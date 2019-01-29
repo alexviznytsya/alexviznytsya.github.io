@@ -35,6 +35,18 @@
       },
 
       {
+      "name": "Console Mandelbrot Fractals Images",
+      "shortName": "",
+      "previewLabel" : "Mandelbrot Fractals",  
+      "previewImage" : "img/projects/console_mandelbrot_fractal/console_mandelbrot_fractal_preview.jpg",      
+      "carouselImages" : ["img/projects/console_mandelbrot_fractal/console_mandelbrot_fractal_3.jpg", "img/projects/console_mandelbrot_fractal/console_mandelbrot_fractal_2.jpg", "img/projects/console_mandelbrot_fractal/console_mandelbrot_fractal_1.jpg"],
+      "description" : "This projects is collection of three programs that work together using inter-process communications to create, display, and store Mandelbrot fractal images. More specifically, the processes use fork / exec, pipes, message queues, shared memory, signals, and process exit codes to coordinate their efforts and communicate information.",
+      "details" : ["C++11", "Inter-Process Communications", "I/O", "macOS"],
+      "git_url" : "https://github.com/alexviznytsya/console-mandelbrot-fractal", 
+      "active" : 0
+      },
+
+      {
       "name": "iClicker Analysis",
       "shortName": "",
       "previewLabel" : "iClicker Analysis",  
