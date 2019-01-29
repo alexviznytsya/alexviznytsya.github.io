@@ -5,8 +5,8 @@
       "previewLabel" : "Aliens VS Pizza",  
       "previewImage" : "img/projects/aliens_vs_pizza/aliens_vs_pizza_preview.jpg",      
       "carouselImages" : ["img/projects/aliens_vs_pizza/aliens_vs_pizza_1.jpg", "img/projects/aliens_vs_pizza/aliens_vs_pizza_2.jpg", "img/projects/aliens_vs_pizza/aliens_vs_pizza_3.jpg"],
-      "description" : "This small appication gets data from Chicago Data Portal about towed vehicles. User can different options to filter request and gets search result in table.",
-      "details" : ["HTML5", "CSS3", "Javascript", "JQuery", "Bootstrap", "JSON"],
+      "description" : "This is Javascript scrolling game using canvas element to create animation. Small alien has to collect as mush as possible pizzas and omit dangerous meteorites. With every 3 pizzas game's difficulty become harder and game speed increases.",
+      "details" : ["HTML5", "CSS3", "Javascript", "JQuery"],
       "git_url" : "https://github.com/alexviznytsya/aliens-vs-pizza", 
       "active" : 1
       },
