@@ -35,6 +35,18 @@
       },
 
       {
+      "name": "Sudoku Solver",
+      "shortName": "",
+      "previewLabel" : "Sudoku Solver",
+      "previewImage" : "img/projects/sudoku_solver/sudoku_solver_preview.jpg",
+      "carouselImages" : ["img/projects/sudoku_solver/sudoku_solver_1.jpg", "img/projects/sudoku_solver/sudoku_solver_2.jpg", "img/projects/sudoku_solver/sudoku_solver_3.jpg"],
+      "description" : "Sudoku Solver is a GUI (Graphical User Interface) game that implements popular puzzle where player has to solve 9x9 grid. Additionally, this grid is divided into 9 smaller boxes. Game uses numbers 1 through 9, and each of these numbers can appear only once in a small box, and only once in the row or column in 9x9 grid. Player can load a board from the file and save current state to the file. Program has some algorithms that can be used to help solving the game using hints or even solve the entire board.",
+      "details" : ["Java", "JDK 10", "Swing", "macOS"],
+      "git_url" : "https://github.com/alexviznytsya/sudoku-solver",
+      "active" : 0
+      },
+
+      {
       "name": "Fifteen Puzzle",
       "shortName": "",
       "previewLabel" : "Fifteen Puzzle",
