@@ -35,6 +35,18 @@
       },
 
       {
+      "name": "CTA Ridership Analysis",
+      "shortName": "",
+      "previewLabel" : "Ridership Analysis ",
+      "previewImage" : "img/projects/cta_ridership_analysis/cta_ridership_analysis_preview.jpg",
+      "carouselImages" : ["img/projects/cta_ridership_analysis/cta_ridership_analysis_1.jpg", "img/projects/cta_ridership_analysis/cta_ridership_analysis_2.jpg", "img/projects/cta_ridership_analysis/cta_ridership_analysis_3.jpg"],
+      "description" : "This project analyzes a database of ridership about Chicago’s CTA system. User has database of CTA data, and the user can investigate the stations and stops in the system, as well as ridership data. Also, the user has the ability to display the top-10 stations in terms of ridership.",
+      "details" : ["C#", "SQL", "Windows 10"],
+      "git_url" : "https://github.com/alexviznytsya/cta-ridership-analysis",
+      "active" : 0
+      },
+
+      {
       "name": "Console Mandelbrot Fractals Images",
       "shortName": "",
       "previewLabel" : "Mandelbrot Fractals",  
