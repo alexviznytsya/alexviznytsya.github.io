@@ -35,6 +35,18 @@
       },
 
       {
+      "name": "Fifteen Puzzle",
+      "shortName": "",
+      "previewLabel" : "Fifteen Puzzle",
+      "previewImage" : "img/projects/fifteen_puzzle/fifteen_puzzle_preview.jpg",
+      "carouselImages" : ["img/projects/fifteen_puzzle/fifteen_puzzle_1.jpg", "img/projects/fifteen_puzzle/fifteen_puzzle_2.jpg", "img/projects/fifteen_puzzle/fifteen_puzzle_3.jpg"],
+      "description" : "The Fifteen Puzzle is one variation of the N-Puzzle. The Fifteen Puzzle was made famous by Sam Lloyd who in 1878. To solve the puzzle, a number that is next to the empty position is moved into the empty position. By 'next to', the number can be above, below, to the left or to the right of the empty position. The empty position will now occupy the grid position were the number had been.",
+      "details" : ["Java", "JDK 10", "Swing", "macOS"],
+      "git_url" : "https://github.com/alexviznytsya/fifteen-puzzle",
+      "active" : 0
+      },
+
+      {
       "name": "CTA Ridership Analysis",
       "shortName": "",
       "previewLabel" : "Ridership Analysis ",
