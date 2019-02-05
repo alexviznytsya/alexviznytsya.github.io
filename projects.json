@@ -35,6 +35,18 @@
       },
 
       {
+      "name": "Networked Battleship",
+      "shortName": "",
+      "previewLabel" : "Networked Battleship",
+      "previewImage" : "img/projects/networked_battleship/networked_battleship_preview.jpg",
+      "carouselImages" : ["img/projects/networked_battleship/networked_battleship_1.jpg", "img/projects/networked_battleship/networked_battleship_2.jpg", "img/projects/networked_battleship/networked_battleship_3.jpg", "img/projects/networked_battleship/networked_battleship_4.jpg", "img/projects/networked_battleship/networked_battleship_5.jpg"],
+      "description" : "Battleship (also Battleships or Sea Battle) is a guessing game for two players. It is played on ruled grids (over the network) on which each players fleet of ships (including battleships) are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling 'shots' at the other player's ships, and the objective of the game is to destroy the opposing player's fleet.",
+      "details" : ["Java", "JDK 10", "Network Multiplayer", "Swing", "macOS"],
+      "git_url" : "https://github.com/alexviznytsya/networked-battleship",
+      "active" : 0
+      },
+
+      {
       "name": "Sudoku Solver",
       "shortName": "",
       "previewLabel" : "Sudoku Solver",
