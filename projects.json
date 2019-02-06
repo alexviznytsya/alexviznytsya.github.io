@@ -35,6 +35,18 @@
       },
 
       {
+      "name": "Networked Chat",
+      "shortName": "",
+      "previewLabel" : "Networked Chat",
+      "previewImage" : "img/projects/networked_chat/networked_chat_preview.jpg",
+      "carouselImages" : ["img/projects/networked_chat/networked_chat_1.jpg", "img/projects/networked_chat/networked_chat_2.jpg", "img/projects/networked_chat/networked_chat_3.jpg", "img/projects/networked_chat/networked_chat_4.jpg", "img/projects/networked_chat/networked_chat_5.jpg", "img/projects/networked_chat/networked_chat_6.jpg", "img/projects/networked_chat/networked_chat_7.jpg"],
+      "description" : "The purpose of this project is to allow users to send encrypted messages to each other over the network. This project is targeted at anyone that would like to send private messages over a network to other users. Two separate programs are required to make this work, the server and the client programs.  ",
+      "details" : ["Java", "JDK 10", "Network", "Swing", "macOS"],
+      "git_url" : "https://github.com/alexviznytsya/networked-chat",
+      "active" : 0
+      },
+
+      {
       "name": "Networked Battleship",
       "shortName": "",
       "previewLabel" : "Networked Battleship",
