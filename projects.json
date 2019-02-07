@@ -35,6 +35,18 @@
       },
 
       {
+      "name": "Assembly Language Interpreter",
+      "shortName": "",
+      "previewLabel" : "Assembly Lang. Interpreter",
+      "previewImage" : "img/projects/asembly_language_interpreter/asm_interpreter_preview.jpg",
+      "carouselImages" : ["img/projects/asembly_language_interpreter/asm_interpreter_1.jpg", "img/projects/asembly_language_interpreter/asm_interpreter_2.jpg", "img/projects/asembly_language_interpreter/asm_interpreter_3.jpg"],
+      "description" : "This project is about building an Assembly Language Interpreter (ALI) for a Simple Assembly Language (SAL). SAL programs are executed on a virtual (emulated) machine consisting of a memory, which stores program code and program data, an accumulator register, an additional register and a Program Counter (PC), which keeps track of the instruction being currently executed. ALI reads a SAL program from a file and executes the program either one line at a time (in debug mode) or all the way to completion (normal run mode).",
+      "details" : ["C++11", "OOP", "Design Patterns", "Simple Assembly Language", "macOS"],
+      "git_url" : "https://github.com/alexviznytsya/asembly-language-interpreter",
+      "active" : 0
+      },
+
+      {
       "name": "Networked Chat",
       "shortName": "",
       "previewLabel" : "Networked Chat",
