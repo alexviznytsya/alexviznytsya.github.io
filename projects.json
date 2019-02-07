@@ -35,6 +35,18 @@
       },
 
       {
+      "name": "Appliance Manager",
+      "shortName": "",
+      "previewLabel" : "Appliance Manager",
+      "previewImage" : "img/projects/appliance_manager/appliance_manager_preview.jpg",
+      "carouselImages" : ["img/projects/appliance_manager/appliance_manager_1.jpg", "img/projects/appliance_manager/appliance_manager_2.jpg", "img/projects/appliance_manager/appliance_manager_3.jpg"],
+      "description" : "This project is implementation of C++11 Smart Pointers in emulation of an e-commerce site for selling household appliances, such as dishwashers, laundry machines, and clothes dryers. This emulator program manages the appliances for sale on customer's website, and keeps only 3 instances of appliance objects in the main memory at any specific moment.",
+      "details" : ["C++11", "OOP", "Smart Pointers", "macOS"],
+      "git_url" : "https://github.com/alexviznytsya/appliance-manager",
+      "active" : 0
+      },
+
+      {
       "name": "Assembly Language Interpreter",
       "shortName": "",
       "previewLabel" : "Assembly Lang. Interpreter",
