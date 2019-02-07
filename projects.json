@@ -95,6 +95,18 @@
       },
 
       {
+      "name": "Smart Home",
+      "shortName": "",
+      "previewLabel" : "Smart Home",  
+      "previewImage" : "img/projects/smart_home/smart_home_preview.jpg",      
+      "carouselImages" : ["img/projects/smart_home/smart_home_1.jpg"],
+      "description" : "This application is a simulation in which a number of threads access a group of shared buffers for both reading and writing purposes. Initially this is done without the benefit of synchronization tools (semaphores) to illustrate the problems of race conditions, and then with the synchronization tools to solve the problems. Also separate mutex is used to coordinate writing to the screen.",
+      "details" : ["Microcontrollers", "Raspberry Pi", "Python", "C++11", "Servers", "Networking", "Soldering"],
+      "git_url" : "https://github.com/alexviznytsya/smart-home", 
+      "active" : 0
+      },
+
+      {
       "name": "pThreads and Synchronization",
       "shortName": "",
       "previewLabel" : "Thread Synchronization",  
