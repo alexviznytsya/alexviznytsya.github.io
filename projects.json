@@ -95,6 +95,18 @@
       },
 
       {
+      "name": "pThreads and Synchronization",
+      "shortName": "",
+      "previewLabel" : "Thread Synchronization",  
+      "previewImage" : "img/projects/pthreads_and_synchronization/pthreads_and_synchronization_preview.jpg",      
+      "carouselImages" : ["img/projects/pthreads_and_synchronization/pthreads_and_synchronization_1.jpg", "img/projects/pthreads_and_synchronization/pthreads_and_synchronization_2.jpg", "img/projects/pthreads_and_synchronization/pthreads_and_synchronization_3.jpg"],
+      "description" : "This application is a simulation in which a number of threads access a group of shared buffers for both reading and writing purposes. Initially this is done without the benefit of synchronization tools (semaphores) to illustrate the problems of race conditions, and then with the synchronization tools to solve the problems. Also separate mutex is used to coordinate writing to the screen.",
+      "details" : ["C11", "pThreads", "Semaphores", "Synchronization", "macOS"],
+      "git_url" : "https://github.com/alexviznytsya/pthreads-and-synchronization", 
+      "active" : 0
+      },
+
+      {
       "name": "Console Mandelbrot Fractals Images",
       "shortName": "",
       "previewLabel" : "Mandelbrot Fractals",  
