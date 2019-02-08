@@ -35,6 +35,42 @@
       },
 
       {
+      "name": "Government Money on Hand",
+      "shortName": "",
+      "previewLabel" : "Money on Hand",  
+      "previewImage" : "img/projects/money_on_hand/money_on_hand_preview.jpg",      
+      "carouselImages" : ["img/projects/money_on_hand/money_on_hand_1.jpg","img/projects/money_on_hand/money_on_hand_2.jpg", "img/projects/money_on_hand/money_on_hand_3.jpg"],
+      "description" : "This project is about two Android apps that help users ﬁnd out how much money the federal goverment of the US had on hand on any given working day in the year 2017. The web site treasury.io provides this data. However, data for entire 2017 an first month of 2018 is stoted in .txt file that is transfered to SQLite database during database creation by Android service.",
+      "details" : ["Android 7.1.1", "API Level 25", "JAVA", "Services", "SQLite"],
+      "git_url" : "https://github.com/alexviznytsya/money-on-hand", 
+      "active" : 0
+      },
+
+      {
+      "name": "Microgolf",
+      "shortName": "",
+      "previewLabel" : "Microgolf",  
+      "previewImage" : "img/projects/microgolf/microgolf_preview.jpg",      
+      "carouselImages" : ["img/projects/microgolf/microgolf_1.jpg"],
+      "description" : "This project is a strategy game called Microgolf. The layout of Microgol fconsists of 50 “holes” arranged in a vertical line. One of the holes is randomly designated by the UI thread as the winning hole. Two worker threads take turns shooting a virtual ball into a hole of their choosing. The ﬁrst thread to shoot its ball into the winn hole wins the game. Here are additional details on this game.",
+      "details" : ["Android 7.1.1", "API Level 25", "JAVA", "Threads"],
+      "git_url" : "https://github.com/alexviznytsya/microgolf", 
+      "active" : 0
+      },
+
+      {
+      "name": "Chicago's Point of Interest",
+      "shortName": "",
+      "previewLabel" : "Chi Point of Interesrs",  
+      "previewImage" : "img/projects/point_of_interest/point_of_interest_preview.jpg",      
+      "carouselImages" : ["img/projects/point_of_interest/point_of_interest_1.jpg", "img/projects/point_of_interest/point_of_interest_2.jpg", "img/projects/point_of_interest/point_of_interest_3.jpg", "img/projects/point_of_interest/point_of_interest_4.jpg"],
+      "description" : "This project constits of two Android applications A1 and A2. The ﬁrst app helps visitors in Chicago decide on points of interest in the city. The second app has speciﬁc information about the points of interest.",
+      "details" : ["Android 7.1.1", "API Level 25", "JAVA", "Permissions", "Intents"],
+      "git_url" : "https://github.com/alexviznytsya/point-of-interest", 
+      "active" : 0
+      },
+
+      {
       "name": "Appliance Manager",
       "shortName": "",
       "previewLabel" : "Appliance Manager",
